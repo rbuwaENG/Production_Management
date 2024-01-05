@@ -1,6 +1,7 @@
 # Production Management System
 </br>
-![](https://github.com/rbuwaENG/Production_Management/blob/main/Screenshots/login.JPG?raw=true)
+
+![Alter text](https://github.com/rbuwaENG/Production_Management/blob/main/Screenshots/login.JPG?raw=true)
 
 A simple C# console application for managing production data and interacting with a SQL Server database.
 
