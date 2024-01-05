@@ -1,6 +1,6 @@
 # Production Management System
 </br>
-![]("https://github.com/rbuwaENG/Production_Management/blob/main/Screenshots/login.JPG?raw=true")
+![](https://github.com/rbuwaENG/Production_Management/blob/main/Screenshots/login.JPG?raw=true)
 
 A simple C# console application for managing production data and interacting with a SQL Server database.
 
@@ -66,4 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - The project is inspired by the need for a simple production management tool with a database backend.
-- Special thanks to [contributors](CONTRIBUTORS.md) who have participated in this project.
+
